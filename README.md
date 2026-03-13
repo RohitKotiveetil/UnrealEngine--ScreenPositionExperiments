@@ -11,5 +11,6 @@ Optimized for Unreal Engine 5.7
 - [Grid Lines Pattern Using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/02/unreal-engine-experiments-grid-lines.html)
 - [Creating Fake Scanlines Using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-tutorial-creating-fake.html)
 - [Creating a Letterbox Effect Using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-tutorial-creating.html)
+- [Radial Pulse Effect using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-experiments-radial-pulse.html)
 
 (_Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA_)
