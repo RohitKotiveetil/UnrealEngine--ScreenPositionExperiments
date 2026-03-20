@@ -41,8 +41,6 @@ Optimized for Unreal Engine 5.7
   
   <img width="640" height="360" alt="radialpulseshot" src="https://github.com/user-attachments/assets/f38c8237-fd5b-494b-81d5-7f5e8b181375" /></li>
 </ul>
-![ScreenPositionExpPreviewNetMode_Standalone064-bit_PCD3DSM62026-03-2016-15-12-ezgif com-optimize]()
-
 
 <ul>
 <li><a href="https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-tutorial-creating-damage.html">Creating a Damage Effect Using the Screen Position Node</a><br>
