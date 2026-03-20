@@ -36,8 +36,13 @@ Optimized for Unreal Engine 5.7
   <img width="640" height="360" alt="letterboxshot" src="https://github.com/user-attachments/assets/c9205570-770e-46b2-b9ce-5b9a04f0af72" /></li>
 </ul>
 
-- [Creating a Letterbox Effect Using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-tutorial-creating.html)
-- [Radial Pulse Effect using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-experiments-radial-pulse.html)
+<ul>
+<li><a href="https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-experiments-radial-pulse.html">Radial Pulse Effect using Screen Position Node</a><br>
+  
+  <img width="640" height="360" alt="radialpulseshot" src="https://github.com/user-attachments/assets/18a2bd7e-264a-4dc4-8090-14bab092cdbb" /></li>
+</ul>
+
+
 - [Creating a Damage Effect Using the Screen Position Node](https://unrealpossibilities.blogspot.com/2026/03/unreal-engine-tutorial-creating-damage.html)
 
 (_Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA_)
