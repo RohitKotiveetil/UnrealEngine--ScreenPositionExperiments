@@ -8,7 +8,7 @@ Optimized for Unreal Engine 5.7
 ## Documentation
 - [Creating a Vignette Effect Using the Screen Position Node](https://unrealpossibilities.blogspot.com/2026/02/unreal-engine-tips-creating-vignette.html)
 
-<img width="1280" height="720" alt="vignetteshot" src="https://github.com/user-attachments/assets/45c93f48-5849-49b8-900a-760c25384e5f" />
+<img width="854" height="480" alt="vignetteshot" src="https://github.com/user-attachments/assets/45c93f48-5849-49b8-900a-760c25384e5f" />
 
 - [Creating a Crosshair Material Using the Screen Position Node](https://unrealpossibilities.blogspot.com/2026/02/unreal-engine-tutorial-creating.html)
 - [Grid Lines Pattern Using Screen Position Node](https://unrealpossibilities.blogspot.com/2026/02/unreal-engine-experiments-grid-lines.html)
