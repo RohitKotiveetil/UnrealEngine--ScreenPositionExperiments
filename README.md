@@ -47,7 +47,6 @@ Optimized for Unreal Engine 5.7
   
   <img width="640" height="360" alt="damageeffectshot" src="https://github.com/user-attachments/assets/726f3068-dfcc-4774-9a3d-fddda95b621e" /></li>
 </ul>
-<img width="2560" height="1440" alt="damageeffectshot" src="" />
 
 
 (_Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA_)
